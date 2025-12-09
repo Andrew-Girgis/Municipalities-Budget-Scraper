@@ -1,0 +1,35 @@
+municipalities:
+  - name: Toronto
+    website: https://www.toronto.ca
+    search_paths:
+      - /city-government/budget-finances/city-finance/annual-financial-report
+    document_patterns:
+      - "annual financial report"
+      - "consolidated financial statements"
+      - "audited financial statements"
+    year_range:
+      start: 2015
+      end: 2024
+    
+  - name: Mississauga
+    website: https://www.mississauga.ca
+    search_paths:
+      - /city-hall/budget-and-finances/financial-reports
+    document_patterns:
+      - "financial report highlights"
+      - "annual report"
+      - "consolidated financial statements"
+    year_range:
+      start: 2015
+      end: 2024
+    
+  # Add more municipalities below
+  # - name: Ottawa
+  #   website: https://ottawa.ca
+  #   search_paths:
+  #     - /en/city-hall/budget-and-taxes/financial-reports
+  #   document_patterns:
+  #     - "annual financial report"
+  #   year_range:
+  #     start: 2015
+  #     end: 2024

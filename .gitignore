@@ -1,0 +1,41 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# Downloaded PDFs (optional - uncomment to track PDFs in git)
+# data/**/*.pdf
+
+# Metadata caches
+.cache/
+*.cache
+
+# Playwright
+playwright-*
+.playwright/
+
+# CSV output files (keep source CSV in git)
+*_results.csv
+*_output.csv

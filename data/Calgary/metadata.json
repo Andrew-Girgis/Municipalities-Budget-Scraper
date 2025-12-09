@@ -1,0 +1,52 @@
+{
+  "Calgary_Fiscal_Gap_Update_Report_2024.pdf": {
+    "source_url": "https://www.calgary.ca/content/dam/www/cfod/finance/documents/plans-budgets-and-financial-reports/2024/municipal-fiscal-gap-report-update.pdf",
+    "year": "2024",
+    "document_type": "Fiscal Gap Update Report",
+    "confidence": "high",
+    "source_page": "https://www.calgary.ca/financialreports",
+    "municipality_data": {
+      "Unnamed: 0": 3,
+      "region": 4806016,
+      "name": "Calgary",
+      "level": "CSD",
+      "pop": 1306784.0,
+      "municipal_status": "CY",
+      "CMA_UID": 48825.0,
+      "CD_UID": 4806,
+      "PR_UID": 48
+    },
+    "download_timestamp": "2025-12-08T23:33:14.704270",
+    "original_filename": "municipal-fiscal-gap-report-update.pdf",
+    "standardized_filename": "Calgary_Fiscal_Gap_Update_Report_2024.pdf",
+    "document_year": "2024",
+    "rename_confidence": "high",
+    "rename_reasoning": "The document is titled 'Municipal Fiscal Gap 2024 Update Report', indicating it covers the year 2024. The type is identified as a report focusing on fiscal gaps, which aligns with the description of a specific update report.",
+    "renamed_at": "2025-12-08T23:33:17.951211"
+  },
+  "Calgary_Municipal_Fiscal_Gap_Report_2023.pdf": {
+    "source_url": "https://www.calgary.ca/content/dam/www/cfod/finance/documents/plans-budgets-and-financial-reports/Municipal-Fiscal-Gap-Report-2023.pdf",
+    "year": "2023",
+    "document_type": "Municipal Fiscal Gap Report",
+    "confidence": "high",
+    "source_page": "https://www.calgary.ca/financialreports",
+    "municipality_data": {
+      "Unnamed: 0": 3,
+      "region": 4806016,
+      "name": "Calgary",
+      "level": "CSD",
+      "pop": 1306784.0,
+      "municipal_status": "CY",
+      "CMA_UID": 48825.0,
+      "CD_UID": 4806,
+      "PR_UID": 48
+    },
+    "download_timestamp": "2025-12-08T23:33:17.952002",
+    "original_filename": "Municipal-Fiscal-Gap-Report-2023.pdf",
+    "standardized_filename": "Calgary_Municipal_Fiscal_Gap_Report_2023.pdf",
+    "document_year": "2023",
+    "rename_confidence": "high",
+    "rename_reasoning": "The document is dated September 19, 2023, indicating it covers the fiscal year 2023. The content suggests it is a report analyzing financial challenges and potential solutions for the municipality, specifically addressing fiscal gaps.",
+    "renamed_at": "2025-12-08T23:33:19.919109"
+  }
+}
